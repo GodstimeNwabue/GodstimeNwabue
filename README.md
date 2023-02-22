@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nwabuegodstime@gmail.com**
 
-- ⚡ Fun fact **No fun facts about me**
+- ⚡ Fun fact **How bad do you want it?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

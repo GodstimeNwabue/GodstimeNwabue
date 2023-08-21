@@ -86,7 +86,7 @@
 
                 @media (max-width: 623px) {
                     span {
-                        font-size: 5.5rem;
+                        font-size: 8rem;
                     }
                 }
             </style>

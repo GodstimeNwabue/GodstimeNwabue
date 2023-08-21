@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Godstime Nwabue</h1>
+<!-- <h1 align="center">Hi 👋, I'm Godstime Nwabue</h1>
 <h3 align="center">A passionate frontend developer from warri, Delta state, Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godstimenwabue&label=Profile%20views&color=0e75b6&style=flat" alt="godstimenwabue" /> </p>
@@ -31,9 +31,107 @@
 
 
 
-
+ -->
 
 <!---
 GodstimeNwabue/GodstimeNwabue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<body>
+    <div class="loading-container">
+        <div class="loading-text">
+            <span>L</span><span>o</span><span>a</span><span>d</span><span>i</span><span>n</span><span>g</span>
+        </div>
+</body>
+
+<style>
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+    }
+    
+    .loading-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 48px;
+        font-weight: bold;
+        animation: brickAnimation 5s linear infinite;
+        text-shadow: 
+        0 1px 0 hsl(174, 5%, 80%),
+        0 2px 0 hsl(174, 5%, 75%),
+        0 3px 0 hsl(174, 5%, 70%),
+        0 4px 0 hsl(174, 5%, 66%),
+        0 5px 0 hsl(174, 5%, 64%),
+        0 6px 0 hsl(174, 5% 62%),
+        0 7px 0 hsl(174, 5%, 61%),
+        0 8px 0 hsl(174, 5%, 60%),
+
+        0 5px rgba(0, 0, 0, .05),
+        0 1px 3px rgba(0, 0, 0, .2),
+        0 3px 5px rgba(0, 0, 0, .2),
+        0 5px 10px rgba(0, 0, 0, .2),
+        0 10px 10px rgba(0, 0, 0, .2),
+        0 20px 20px rgba(0, 0, 0, .3)
+        ;
+    }
+
+    .loading-text span {
+        display: inline-block;
+        transform-origin: 50% 50%;
+        opacity: 0;
+        animation: brickFadeOut 5s linear infinite;
+    }
+
+    .loading-text span:nth-child(1) {
+        color: #d72323;
+    }
+
+    .loading-text span:nth-child(2) {
+        color: #f16f6f;
+    }
+
+    .loading-text span:nth-child(3) {
+        color: #ffaa93;
+    }
+
+    .loading-text span:nth-child(4) {
+        color: #a52a2a;
+    }
+
+    .loading-text span:nth-child(5) {
+        color: #ffaa93;
+    }
+
+    .loading-text span:nth-child(6) {
+        color: #f16f6f;
+    }
+
+    .loading-text span:nth-child(7) {
+        color: #D72323;
+    }
+
+    span {
+        font-size: 10rem;
+    }
+
+    @keyframes brickFadeOut {
+        0% {
+            opacity: 1;
+        }
+        100% {
+            opacity: 0;
+        }
+    }
+
+    @media (max-width: 623px) {
+        span {
+            font-size: 5rem;
+        }
+    }
+</style>

@@ -72,7 +72,7 @@
                 }
 
                 span {
-                    font-size: 10rem;
+                    font-size: 7rem;
                 }
 
                 @keyframes brickFadeOut {
@@ -87,7 +87,7 @@
 
                 @media (max-width: 623px) {
                     span {
-                        font-size: 5rem;
+                        font-size: 3rem;
                     }
                 }
             </style>

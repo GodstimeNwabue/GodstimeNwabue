@@ -38,12 +38,14 @@ GodstimeNwabue/GodstimeNwabue is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<body>
-    <div class="loading-container">
-        <div class="loading-text">
-            <span>L</span><span>o</span><span>a</span><span>d</span><span>i</span><span>n</span><span>g</span>
-        </div>
-</body>
+
+
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viweport" content="width=device-width. initial-scale=1.0">
 
 <style>
     body {
@@ -135,3 +137,11 @@ You can click the Preview link to take a look at your changes.
         }
     }
 </style>
+</head>
+<body>
+    <div class="loading-container">
+        <div class="loading-text">
+            <span>L</span><span>o</span><span>a</span><span>d</span><span>i</span><span>n</span><span>g</span>
+        </div> 
+</body>
+</html>

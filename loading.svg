@@ -5,7 +5,6 @@
                 body {
                     display: flex;
                     justify-content: center;
-                    align-items: center;
                     min-height: 100vh;
                     margin: 0;
                 }
@@ -72,7 +71,7 @@
                 }
 
                 span {
-                    font-size: 5rem;
+                    font-size: 8rem;
                 }
 
                 @keyframes brickFadeOut {
@@ -87,7 +86,7 @@
 
                 @media (max-width: 623px) {
                     span {
-                        font-size: 3rem;
+                        font-size: 5rem;
                     }
                 }
             </style>

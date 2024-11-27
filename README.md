@@ -7,7 +7,7 @@ I'm a frontend developer and aspiring product manager on a mission to craft digi
 - 🖥️ **AltSchool Africa** - Frontend Engineering
 - 📋 **Top Universe** - Product Management
 
-I'm building my first set of projects to shwocase my skills. This journey is all about growth, and I'm excited to share the results soon.
+I'm building my first set of projects to showcase my skills. This journey is all about growth, and I'm excited to share the results soon.
 
 
 ##  🛠️ My Toolbox
